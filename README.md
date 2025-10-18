@@ -1,4 +1,4 @@
-# ♻️ EcoWaste AI — Smart Waste Classification & Carbon Footprint Estimator
+# ♻️ EcoWaste AI Smart Waste Classification & Carbon Footprint Estimator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) ![Tech: TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg) ![UI: Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b.svg)
 
