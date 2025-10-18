@@ -63,8 +63,8 @@
 
 ---
 
-👤 Author
-Amirtha Ganesh R /___/
-Email: amirthaganeshramesh@gmail.com
+##👤 Author
+### Amirtha Ganesh R 
+### Email: amirthaganeshramesh@gmail.com
 
 
