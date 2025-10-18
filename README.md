@@ -62,3 +62,9 @@
 - Loads models from `models/` or repo root, accepts image uploads and weight input, shows predictions, CO₂ estimate and an impact message.
 
 ---
+
+👤 Author
+Amirtha Ganesh R /___/
+Email: amirthaganeshramesh@gmail.com
+
+
