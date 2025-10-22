@@ -11,7 +11,7 @@
 - **Goal:** Automate waste sorting and estimate CO₂ savings to encourage responsible disposal and reduce landfill emissions.  
 - **Inputs:** Image of waste item + estimated weight (kg).  
 - **Outputs:** Predicted class (`O` or `R`), prediction confidence, estimated CO₂ saved (kg), short recycling/composting tip.  
-- **Use case:** Local Streamlit app (runs on CPU), demonstrator for portfolio / sustainability hackathons.
+
 
 ---
 
